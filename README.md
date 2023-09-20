@@ -133,3 +133,5 @@ In the body of the function:
 * There is a Github CI test that should be passing. You can check it in the Actions tab of your repository
 
 Due to big number of participants the submissions will NOT be considered if any of the above criteria is not met.
+
+# [XCM Format (Dr Wood, Parity)](https://github.com/paritytech/xcm-format)
